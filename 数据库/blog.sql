@@ -1,0 +1,9 @@
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (1, '2', 5, '333');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (2, '666', 14, '333');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (3, '555555', 14, '55555555');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (4, '还好', 26, '还好');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (5, 'null', 26, 'null');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (6, 'aaa', 28, 'aaa');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (7, '游客44165458', 28, 'ssss');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (8, '666666', 28, '6666');
+INSERT INTO `blog` (`bid`, `btitle`, `uid`, `binfo`) VALUES (9, 'wosishengqihan', 28, '66666666');

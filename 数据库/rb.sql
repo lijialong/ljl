@@ -1,0 +1,18 @@
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (1, 2, '1', '1', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (2, 2, '1', '1', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (3, 3, '2018-10-08 00:08:54', '<p>666</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (4, 3, '2018-10-08 00:10:31', '<p>123</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (5, 3, '2018-10-08 00:12:50', '<p>111</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (6, 3, '2018-10-08 00:12:50', '<p>111</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (7, 3, '2018-10-08 00:12:50', '<p>111</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (8, 3, '2018-10-08 00:12:50', '<p>111</p>\r\n', 14);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (9, 4, '2018-10-08 00:13:59', '<p><strong>2222<em>33333</em></strong></p>\r\n', 26);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (10, 3, '2018-10-08 14:12:25', '<p>12580</p>\r\n', 0);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (11, 3, '2018-10-08 14:13:50', '<p>1250</p>\r\n', 0);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (12, 3, '2018-10-08 14:18:43', '<p>1222</p>\r\n', 0);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (13, 3, '2018-10-08 14:20:16', '<p>22222</p>\r\n', 0);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (14, 3, '2018-10-08 14:23:47', '<p>6666</p>\r\n', 0);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (15, 3, '2018-10-08 14:35:43', '<p>托尔斯泰22</p>\r\n', 5);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (16, 4, '2018-10-08 14:37:20', '<p><strong>lllll</strong></p>\r\n\r\n<h1><em><s>1233333</s></em></h1>\r\n', 5);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (17, 7, '2018-10-08 14:44:35', '<h1 style=\"font-style: italic;\">我是666</h1>\r\n', 5);
+INSERT INTO `rb` (`rbid`, `bid`, `rtime`, `rbinfo`, `uid`) VALUES (18, 9, '2018-10-08 14:47:05', '<p>1111122234</p>\r\n', 14);
